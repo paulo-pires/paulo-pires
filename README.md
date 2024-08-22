@@ -11,7 +11,7 @@
 
 ###
 
-<h3 align="left">Comecei minha carreira em 2018 com PHP puro e Symfony, com banco de dados MySQL. Em seguida trabalhei com Magento, APIs, e servidores Linux. Posteriormente como consultor em OLTP com SingleStore e MemSQL. Atualmente sou full-stack com React e Python (IA)</h3>
+<p align="left">✨ Criando bugs desde 2018<br><br>📚 Atualmente, estou aprendendo: Python avançado para IA e visão computacional, e aprofundando meus conhecimentos em Next.js e SQL Server.<br><br>🎯 Objetivos: Dominar tecnologias de IA e machine learning, e tornar-me um especialista na area de IA.</p>
 
 ###
 
