@@ -55,3 +55,6 @@
 <img src="https://raw.githubusercontent.com/paulo-pires/paulo-pires/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
