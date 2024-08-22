@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">🎯 Objetivos: Dominar tecnologias de IA e machine learning, e tornar-me um especialista na area de IA.</p>
+<p align="left">Comecei minha carreira em 2018 com PHP puro e Symfony, com banco de dados MySQL. Em seguida trabalhei com Magento, APIs, e servidores Linux. Posteriormente como consultor em OLTP com SingleStore e MemSQL. Atualmente sou full-stack com React e Python (IA)</p>
 
 ###
 ###
