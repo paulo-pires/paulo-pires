@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2018<br><br>📚 Atualmente, estou aprendendo: Python avançado para IA e visão computacional, e aprofundando meus conhecimentos em Next.js e SQL Server.<br><br>🎯 Objetivos: Dominar tecnologias de IA e machine learning, e tornar-me um especialista na area de IA.</p>
+<p align="left">🎯 Objetivos: Dominar tecnologias de IA e machine learning, e tornar-me um especialista na area de IA.</p>
 
 ###
 ###
