@@ -1,4 +1,4 @@
-<body style="background-color: #282a36; color: #f8f8f2;">
+
 
 <div align="left">
   <a href="srpaulo.hp@gmail.com" target="_blank">
@@ -60,5 +60,3 @@
 </picture>
 
 ###
-
-</body>
