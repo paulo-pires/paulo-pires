@@ -14,7 +14,11 @@
 <p align="left">✨ Criando bugs desde 2018<br><br>📚 Atualmente, estou aprendendo: Python avançado para IA e visão computacional, e aprofundando meus conhecimentos em Next.js e SQL Server.<br><br>🎯 Objetivos: Dominar tecnologias de IA e machine learning, e tornar-me um especialista na area de IA.</p>
 
 ###
+###
 
+<p align="left">🔧 Skills:<br>🖥️ Full-Stack Development (Next.js, React, Node.js, PHP, Symfony, Angular, C#, React Native)<br>📊 Data Optimization (SingleStore, MemSQL, MySQL, PostgreSQL)<br>⚙️ API Integration (Magento, e-commerce APIs)<br>🛠️ Automation & Testing (Cypress, Docker)<br>🧠 AI & Machine Learning (Python, Computer Vision)</p>
+
+###
 <br clear="both">
 
 <div align="left">
